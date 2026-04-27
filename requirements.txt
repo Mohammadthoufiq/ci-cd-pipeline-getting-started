@@ -6,3 +6,4 @@ mlflow
 dvc
 pytest
 joblib
+httpx
